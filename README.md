@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="400" height="250" src="https://github.com/Nadezhda2024/Nadezhda2024/blob/main/%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.mp4"  alt="animated" />
-  ![](https://github.com/Nadezhda2024/-/blob/main/%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%B3%D0%B8%D1%84%D0%BA%D0%B0.gif)
-</p>
+  <img width="400" height="250" src="https://github.com/Nadezhda2024/Nadezhda2024/blob/main/%D0%94%D0%BB%D1%8F%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.gif"  alt="animated" />
+  </p>
 
 ## <p align="center">Привет, меня зовут Надежда! 👋</p>
 
