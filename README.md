@@ -38,7 +38,7 @@
 
 ### Обучение
 
-|Название сертификата|Ссылка|
+|Название курса|Сертификат|
 |--------------------|------|
 |Профессия BI-аналитик|[github](https://github.com/Nadezhda2024/Certificate-of-the-BI-analyst-profession/tree/main)|
 |Power BI|[github](https://github.com/Nadezhda2024/Certificate_Power_BI)|
