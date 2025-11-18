@@ -44,9 +44,11 @@
 |Профессия BI-аналитик|[github](https://github.com/Nadezhda2024/Certificate-of-the-BI-analyst-profession/tree/main)|
 |Power BI|[github](https://github.com/Nadezhda2024/Certificate_Power_BI)|
 |Power BI Advanced|[github](https://github.com/Nadezhda2024/Certificate-Power-BI-Advanced)|
+|Fastboard Российская BI-платформа|[github](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/%D0%9F%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0%20Fastbord.pdf)|
 |SQL для анализа данных|[github](https://github.com/Nadezhda2024/SQL-certificate-for-data-analysis)|
 |Бизнес-анализ|[github](https://github.com/Nadezhda2024/Certificate-Business_Analyst)|
 |Excel 2.0|[github](https://github.com/Nadezhda2024/Excel-Basic-2.0-Certificate)|
+
 
 
 
