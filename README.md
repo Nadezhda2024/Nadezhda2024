@@ -48,6 +48,7 @@
  #### 📫Как связаться со мной: <a href="">[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Dr_Panko)</a>
 
 ### Мои достижения
+:busts_in_silhouette: Участие в Хакатоне от Островка в треке О!дин запрос (октябрь 2026) (__[Сертификат](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/certificate_individual.png)__)\
 :mortar_board: Стажировка в компании Aspex 4 недели (март 2026) в роли BI-аналитика (__[Сертификат](https://github.com/Nadezhda2024/-_Aspex/blob/main/IMG_20260327_132650_283.jpg)__)\
 :3rd_place_medal: Решение призового кейса: Заняла **3 место** в конкурсе Fastboard (ноябрь 2025) от компании разработчика Win Solutions (__[Призовое место](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/photo_2025-11-27_19-09-38.jpg)__)
   
