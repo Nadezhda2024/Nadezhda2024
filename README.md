@@ -34,6 +34,8 @@
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/copilot-github-blue.svg?style=for-the-badge&logo=github)
+
 
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
