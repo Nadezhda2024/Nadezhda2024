@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="400" height="250" src="https://github.com/Nadezhda2024/Nadezhda2024/blob/main/%D0%94%D0%BB%D1%8F%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE.gif"  alt="animated" />
-  </p>
-
-## <p align="center">Привет, меня зовут Надежда! 👋</p>
+## Привет, меня зовут Надежда! 👋
 
 ### 🛠️ Языки и инструменты:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -51,13 +47,13 @@
  #### 📫Как связаться со мной: <a href="">[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Dr_Panko)</a>
 
 ### Мои достижения
-:busts_in_silhouette: Участие в Хакатоне от Островка в треке О!дин запрос (октябрь 2026) (__[Сертификат](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/certificate_individual.png)__)\
-:mortar_board: Стажировка в компании Aspex 4 недели (март 2026) в роли BI-аналитика (__[Сертификат](https://github.com/Nadezhda2024/-_Aspex/blob/main/IMG_20260327_132650_283.jpg)__)\
-:3rd_place_medal: Решение призового кейса: Заняла **3 место** в конкурсе Fastboard (ноябрь 2025) от компании разработчика Win Solutions (__[Призовое место](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/photo_2025-11-27_19-09-38.jpg)__)
+👥 Участие в Хакатоне от Островка в треке О!дин запрос (октябрь 2026) (__[Сертификат](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/certificate_individual.png)__)\
+🎓 Стажировка в компании Aspex 4 недели (март 2026) в роли BI-аналитика (__[Сертификат](https://github.com/Nadezhda2024/-_Aspex/blob/main/IMG_20260327_132650_283.jpg)__)\
+🏅 Решение призового кейса: Заняла **3 место** в конкурсе Fastboard (ноябрь 2025) от компании разработчика Win Solutions (__[Призовое место](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/photo_2025-11-27_19-09-38.jpg)__)
   
-- :bar_chart: Занимаюсь аналитикой данных 📈
-- :raised_hands: Готова к сотрудничеству 🤝
-- :point_down: Мои проекты 👇:
+- 📊 Занимаюсь аналитикой данных 📈
+- 🙌 Готова к сотрудничеству 🤝
+- 👇 Мои проекты 👇:
   
  |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
