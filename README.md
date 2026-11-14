@@ -40,9 +40,9 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### :man_technologist: Обо мне:
-####  :man_technologist: Я Аналитик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-####  📊 Мне нравится весь процесс решения бизнес-задач с использованием данных, а также поиск нестандартных подходов и их применение для улучшения бизнеса.
+### Обо мне:
+#### Я Аналитик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### Мне нравится весь процесс решения бизнес-задач с использованием данных, а также поиск нестандартных подходов и их применение для улучшения бизнеса.
 
  #### 📫Как связаться со мной: <a href="">[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Dr_Panko)</a>
 
